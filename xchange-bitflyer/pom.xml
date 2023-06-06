@@ -5,7 +5,7 @@
 
     <parent>
         <artifactId>xchange-parent</artifactId>
-        <groupId>org.knowm.xchange</groupId>
+        <groupId>jasperciti</groupId>
         <version>5.1.1-SNAPSHOT</version>
     </parent>
 
@@ -22,7 +22,7 @@
     <dependencies>
 
         <dependency>
-            <groupId>org.knowm.xchange</groupId>
+            <groupId>jasperciti</groupId>
             <artifactId>xchange-core</artifactId>
             <version>${project.version}</version>
         </dependency>

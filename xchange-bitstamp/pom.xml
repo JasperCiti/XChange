@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>org.knowm.xchange</groupId>
+        <groupId>jasperciti</groupId>
         <artifactId>xchange-parent</artifactId>
         <version>5.1.1-SNAPSHOT</version>
     </parent>
@@ -31,7 +31,7 @@
         </dependency>
 
         <dependency>
-            <groupId>org.knowm.xchange</groupId>
+            <groupId>jasperciti</groupId>
             <artifactId>xchange-core</artifactId>
             <version>${project.version}</version>
         </dependency>

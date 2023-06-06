@@ -146,12 +146,12 @@ Add the following dependencies in your pom.xml file. You will need at least xcha
 
 ```xml
 <dependency>
-  <groupId>org.knowm.xchange</groupId>
+  <groupId>jasperciti</groupId>
   <artifactId>xchange-core</artifactId>
   <version>5.1.0</version>
 </dependency>
 <dependency>
-  <groupId>org.knowm.xchange</groupId>
+  <groupId>jasperciti</groupId>
   <artifactId>xchange-XYZ</artifactId>
   <version>5.1.0</version>
 </dependency>
@@ -161,7 +161,7 @@ If it is available for your exchange, you may also want to use the streaming API
 
 ```xml
 <dependency>
-  <groupId>org.knowm.xchange</groupId>
+  <groupId>jasperciti</groupId>
   <artifactId>xchange-stream-XYZ</artifactId>
   <version>5.1.0</version>
 </dependency>
